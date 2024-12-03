@@ -1,0 +1,49 @@
+:root {
+  --accent-color: #f09e6f;
+  --background-color: #d6aa86;
+  --text-color: #ffffff;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+.btn-custom {
+  background-color: var(--accent-color);
+  border: none;
+  color: white;
+  transition: all 0.3s ease;
+}
+.btn-custom:hover {
+  background-color: darken(var(--accent-color), 10%);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card {
+  border: none;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.badge {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+nav a.nav-link {
+  color: rgb(32, 31, 31);
+  transition: color 0.3s ease;
+}
+nav a.nav-link:hover {
+  color: var(--accent-color);
+}
+footer {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+footer a {
+  color: var(--text-color);
+}
