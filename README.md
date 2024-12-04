@@ -49,6 +49,12 @@ Los proyectos destacados se cargan dinámicamente desde mi [perfil de GitHub](ht
 
 ---
 
+## 🚀 Visita mi portafolio
+
+- [Mira mi portafolio](https://valyxp.github.io/mi_portafolio/)
+
+---
+
 ## 🌐 Conecta conmigo
 
 - [GitHub](https://github.com/Valyxp)
