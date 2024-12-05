@@ -1,4 +1,4 @@
-# 🌟 Portafolio | Valery Maragaño 🌟
+# Mi Portafolio 🌟
 
 ¡Bienvenid@ a mi portafolio web! Este espacio refleja mi pasión por el desarrollo web y mi compromiso con el aprendizaje constante. Aquí podrás encontrar información sobre mí, mis proyectos destacados, habilidades, y más.
 
@@ -49,7 +49,7 @@ Los proyectos destacados se cargan dinámicamente desde mi [perfil de GitHub](ht
 
 ---
 
-## 🚀 Visita mi portafolio
+## 🌟 Visita mi portafolio
 
 - [Mira mi portafolio](https://valyxp.github.io/mi_portafolio/)
 
